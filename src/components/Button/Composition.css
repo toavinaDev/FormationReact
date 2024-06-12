@@ -1,0 +1,7 @@
+.composition_container {
+    width: 400px;
+    height: 400px;
+    background-color: grey;
+    border-radius: 10px;
+    margin: auto;
+}
